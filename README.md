@@ -4,7 +4,7 @@
 
 # DEMO
 
-![demo](ezgif.com-video-to-gif.gif)
+![demo](todoApp_Demo.gif)
 
 # Features
 
