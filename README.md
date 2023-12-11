@@ -4,7 +4,7 @@
 
 # DEMO
 
-![demo]([https://drive.google.com/file/d/1L-5ctyfI-Eg7mxVJoosWg_LZ4hhOMUps/view?usp=drive_link](https://drive.google.com/file/d/1L-5ctyfI-Eg7mxVJoosWg_LZ4hhOMUps/view?usp=sharing))
+![demo](ezgif.com-video-to-gif.gif)
 
 # Features
 
